@@ -1,0 +1,19 @@
+h1{
+    font-weight:bold;
+    font-size:150px;
+background-color:blue;
+}
+img{
+    width:300px;
+    height:300px;
+}
+.headerclass{
+    color:#802934;
+}
+.greentext{
+    color: #2a8060;
+}
+.navbar
+{
+    background-color:purple;
+}
